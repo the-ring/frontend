@@ -10,7 +10,7 @@
 <h4 align="center">An example client that communicates with <a href="https://github.com/the-ring/backend">backend</a>.</h4>
 
 <p align="center">
-  <a href="https://github.com/the-ring/backend/main-styles"><img src="https://img.shields.io/github/tag/the-ring/main-styles.svg" alt="Release"></a>
+  <a href="https://github.com/the-ring/frontend"><img src="https://img.shields.io/github/tag/the-ring/frontend.svg" alt="Release"></a>
 </p>
 
 **Attention! This project is in active development.**
